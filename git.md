@@ -381,3 +381,19 @@ Albo inaczej
 ```
 
 NOTE: powiedzieć czym jest FETCH_HEAD i o tym że można dać argumenty do tych komend, ale zwykle nie trzeba
+
+---
+
+## Issues
+
+Issues jest mechanizmem do śledzenia wszelkich problemów, sugestii czy innych typów feedbacku od deweloperów czy użytkowników.
+
+NOTE: głównie praktyczna część, nie ma potrzeby na więcej tekstu
+
+---
+
+## Pull Requests
+
+Pull Requests pozwala proponować zmiany w repozytorium z innego brancha w sposób, który pozwala właścicielom na szybkie przejrzenie i wprowadzenie zmian.
+
+NOTE: głównie praktyczna część, nie ma potrzeby na więcej tekstu
