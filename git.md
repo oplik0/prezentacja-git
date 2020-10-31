@@ -114,7 +114,7 @@ Przedtem jednak, musimy mu powiedzieć kim jesteśmy - potrzebny jest username j
 $ git config --global user.name "Jan Kowalski"
 $ git config --global user.email "jan.kowalski@tm1.edu.pl"
 ```
-NOTE: wspomnieć o tym, że trzeba user.email musi się zgadzać z tym na GH!
+NOTE: wspomnieć o tym, że user.email musi się zgadzać z tym na GH!
 
 ---
 
