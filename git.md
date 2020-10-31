@@ -159,7 +159,7 @@ Czyli co gdy ma się wiele wersji jednocześnie
 
 -   W dowolnym momencie (z dowolnego commita) można wydzielić nową gałąź (branch)
 -   Branche od momentu rozdzielenia są niezależne od zmian w źródle <!-- .element: class="fragment" data-fragment-index="1" -->
--   Można kopiować (łączyć) zmiany z jednego brancha na drugi <!-- .element: class="fragment" data-fragment-index="1" -->
+-   Można kopiować (łączyć) zmiany z jednego brancha na drugi <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---v
 
