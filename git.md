@@ -103,7 +103,9 @@ $ git rm <PLIK | FOLDER>
 
 ### Główna waluta repo: commity
 
-Po utworzeniu i zapisaniu naszych zmian, teraz musimy je . tzw. **commit** - prosto mowiąc, jest on migawką repozytorium.
+Po utworzeniu i zapisaniu naszych zmian, teraz musimy je zakomunikować do Gita robiąc tzw. **commit** - prosto mowiąc, jest on migawką z wszystkimi zmianami w plikach od momentu ostatniego commita.
+
+
 W Git, wykonujemy commit za pomocą
 
 ```shell
