@@ -18,12 +18,12 @@ revealOptions:
 
 System kontroli wersji - sposób śledzenia zmian np. w kodzie, albo dowolnych innych plikach. W tym zmian z różnych źródeł.
 
-Przykładem mogą być dokumenty google
+Przykładem mogą być dokumenty Google lub MS Word
 ![xkcd - dokument](https://imgs.xkcd.com/comics/documents.png)
 
 ---v
 
-**Rozproszony** system kontroli wersji - system kontroli wersji w którym na każdym komputer ma pełną historię plików, co pozwala na usprawnienia w zarządzaniu wersjami
+**Rozproszony** system kontroli wersji - system kontroli wersji w którym każdy komputer ma pełną historię plików, co pozwala na usprawnienia w zarządzaniu wersjami
 
 ---
 
