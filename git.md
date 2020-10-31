@@ -10,6 +10,15 @@ revealOptions:
 
 ---
 
+### Spis treści
+
+1. Czym jest git?
+2. Podstawy pracy z gitem
+3. Praca online (GitHub)
+4. Co jeszcze można zrobić w GitHubie
+
+---
+
 ## Czym jest git?
 
 ### Git to rozproszony system kontroli wersji <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -41,6 +50,12 @@ Przykładem mogą być dokumenty Google. <!-- .element: class="fragment" data-fr
 ---v
 
 ![xkcd - git](https://imgs.xkcd.com/comics/git.png)
+
+---
+
+# Podstawy pracy z gitem
+
+<!-- .element style="width:110%" -->
 
 ---
 
@@ -292,7 +307,10 @@ Date:   Sat Oct 31 19:06:12 2020 +0100
 
 ---
 
-### Jeśli ktoś jeszcze się nie zarejestrował: https://github.com/join
+## Jeśli ktoś jeszcze się nie zarejestrował: [github.com/join](https://github.com/join)
+
+### Polecamy też dołączyć do GitHub Education: [education.github.com](https://education.github.com)
+
 NOTE: wspomnieć o GitHub Education!
 
 ---
@@ -312,6 +330,8 @@ NOTE: Zaznaczyć by nie zaznaczać nic w "Initialize this repository with", poni
 ```sh
 > git remote add origin https://github.com/nazwa-użytkownika/nazwa-repozytorium.git
 ```
+
+<!-- .element style="width:115%" -->
 
 NOTE: powiedzieć dlaczego jest tam origin
 
@@ -416,6 +436,8 @@ Forkowane repozytoria są twoje, ale są powiązane w GitHubie z oryginalnymi
 
 NOTE: pokazać to w praktyce :V
 
+---
+
 ## Co jeszcze można zrobić w GitHubie?
 
 ---
@@ -459,3 +481,18 @@ trochę jak trello, ale w GitHubie
 Automatyzacja!
 
 NOTE: pokazać w praktyce
+
+---
+
+# Pytania?
+
+---
+
+## Zasoby do nauki gita
+
+-   [guides.github.com](https://guides.github.com/)
+-   [lab.github.com](https://lab.github.com)
+-   [git-scm.com](https://git-scm.com/)
+-   [gitkraken.com/resources/learn-git](https://gitkraken.com/resources/learn-git)
+-   [github.com/jlord/git-it-electron](https://github.com/jlord/git-it-electron)
+-   [git-school.github.io/visualizing-git](https://git-school.github.io/visualizing-git)
