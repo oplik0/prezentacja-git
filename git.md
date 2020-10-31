@@ -6,4 +6,6 @@ revealOptions:
     transition: "fade"
 ---
 
-# Czym jest git?
+![tytuł](assets/tytuł.png)
+
+---
