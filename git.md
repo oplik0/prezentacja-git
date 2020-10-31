@@ -335,4 +335,49 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 <!-- .element style="width:110%" -->
 
+NOTE: powiedzieć czym jest `-u` - czyli ze ustawia śledzenie origin na przyszłość
+
 ---
+
+### Tworzenie kopii zdalnego repozytorium
+
+```sh [1|1-7]
+> git clone https://github.com/nazwa-użytkownika/nazwa-repozytorium.git
+Cloning into 'nazwa-repozytorium'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 9 (delta 0), reused 9 (delta 0), pack-reused 0
+Unpacking objects: 100% (9/9), done.
+```
+
+<!-- .element style="width:105%" -->
+
+NOTE: zaznaczyć że często się pobiera repo z githuba zamiast tworzyć je lokalnie
+
+---v
+
+### Można też wybrać inną nazwę folderu
+
+```sh
+> git clone https://github.com/nazwa-użytkownika/nazwa-repozytorium.git nazwa-folderu
+```
+
+<!-- .element style="width:105%" -->
+
+---
+
+### Aktualizacja z remote
+
+```sh
+> git pull
+```
+
+Albo inaczej
+
+```sh
+> git fetch
+> git merge FETCH_HEAD
+```
+
+NOTE: powiedzieć czym jest FETCH_HEAD i o tym że można dać argumenty do tych komend, ale zwykle nie trzeba
