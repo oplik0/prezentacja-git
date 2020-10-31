@@ -158,7 +158,7 @@ Czyli co gdy ma się wiele wersji jednocześnie
 
 ---
 
--   W dowolnym momencie (z dowolnego commita) można wydzielić nową gałąź (branch) <!-- .element: class="fragment" data-fragment-index="1" -->
+-   W dowolnym momencie (z dowolnego commita) można wydzielić nową gałąź (branch)
 -   Branche od momentu rozdzielenia są niezależne od zmian w źródle <!-- .element: class="fragment" data-fragment-index="2" -->
 -   Można kopiować (łączyć) zmiany z jednego brancha na drugi <!-- .element: class="fragment" data-fragment-index="3" -->
 
@@ -237,7 +237,7 @@ Date:   Sat Oct 31 19:03:42 2020 +0100
     initial commit
 ```
 
-Notes: jak widać jest tu tylko pierwszy commit - drugi nie przeszedł z brancha
+NOTE: jak widać jest tu tylko pierwszy commit - drugi nie przeszedł z brancha
 
 ---
 
@@ -253,7 +253,7 @@ Fast-forward
  create mode 100644 branch.txt
 ```
 
-Notes: wspomnieć o konfliktach i ich rezolucji, a także o merge commitach i squashach
+NOTE: wspomnieć o konfliktach i ich rezolucji, a także o merge commitach i squashach
 
 ---
 
@@ -303,7 +303,7 @@ Date:   Sat Oct 31 19:06:12 2020 +0100
 
 ![github new repo](assets/github-new-repo.png)
 
-Notes: Zaznaczyć by nie zaznaczać nic w "Initialize this repository with", ponieważ mamy już repo, ale normalnie można tak stworzyć nowe w którym coś już jest
+NOTE: Zaznaczyć by nie zaznaczać nic w "Initialize this repository with", ponieważ mamy już repo, ale normalnie można tak stworzyć nowe w którym coś już jest
 
 ---
 
@@ -313,7 +313,7 @@ Notes: Zaznaczyć by nie zaznaczać nic w "Initialize this repository with", pon
 > git remote add origin https://github.com/nazwa-użytkownika/nazwa-repozytorium.git
 ```
 
-Notes: powiedzieć dlaczego jest tam origin
+NOTE: powiedzieć dlaczego jest tam origin
 
 ---
 
