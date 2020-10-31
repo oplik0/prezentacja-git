@@ -105,7 +105,6 @@ $ git rm <PLIK | FOLDER>
 
 Po utworzeniu i zapisaniu naszych zmian, teraz musimy je zakomunikować do Gita robiąc tzw. **commit** - prosto mowiąc, jest on migawką z wszystkimi zmianami w plikach od momentu ostatniego commita.
 
-
 W Git, wykonujemy commit za pomocą
 
 ```shell
@@ -158,9 +157,9 @@ Czyli co gdy ma się wiele wersji jednocześnie
 
 ---
 
--   W dowolnym momencie (z dowolnego commita) można wydzielić nową gałąź (branch) <!-- .element: class="fragment" data-fragment-index="1" -->
--   Branche od momentu rozdzielenia są niezależne od zmian w źródle <!-- .element: class="fragment" data-fragment-index="2" -->
--   Można kopiować (łączyć) zmiany z jednego brancha na drugi <!-- .element: class="fragment" data-fragment-index="3" -->
+-   W dowolnym momencie (z dowolnego commita) można wydzielić nową gałąź (branch)
+-   Branche od momentu rozdzielenia są niezależne od zmian w źródle <!-- .element: class="fragment" data-fragment-index="1" -->
+-   Można kopiować (łączyć) zmiany z jednego brancha na drugi <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---v
 
@@ -335,3 +334,5 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 
 <!-- .element style="width:110%" -->
+
+---
