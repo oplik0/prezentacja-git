@@ -293,6 +293,7 @@ Date:   Sat Oct 31 19:06:12 2020 +0100
 ---
 
 ### Jeśli ktoś jeszcze się nie zarejestrował: https://github.com/join
+NOTE: wspomnieć o GitHub Education!
 
 ---
 
