@@ -397,3 +397,64 @@ NOTE: głównie praktyczna część, nie ma potrzeby na więcej tekstu
 Pull Requests pozwala proponować zmiany w repozytorium z innego brancha w sposób, który pozwala właścicielom na szybkie przejrzenie i wprowadzenie zmian.
 
 NOTE: głównie praktyczna część, nie ma potrzeby na więcej tekstu
+
+---
+
+### Forkowanie
+
+Czyli jak rozwijać cudze repozytorium
+
+---v
+Jak forkować repozytorium?
+![fork](assets/fork.png)
+
+---v
+
+Forkowane repozytoria są twoje, ale są powiązane w GitHubie z oryginalnymi
+![forked repo](assets/forked-repo.png)
+
+NOTE: pokazać to w praktyce :V
+
+## Co jeszcze można zrobić w GitHubie?
+
+---
+
+### GitHub Pages
+
+Prosty darmowy hosting stron statycznych
+
+NOTE: powiedzieć czym są strony statyczne na wszelki wypadek
+
+---v
+
+![github pages](assets/github-pages.png)
+
+---v
+
+![github pages example](assets/github-pages-example.png)
+
+---
+
+### Projects
+
+trochę jak trello, ale w GitHubie
+
+---v
+
+![create project](assets/new-project.png)
+
+---v
+
+![create project - settings](assets/new-project-settings.png)
+
+---v
+
+![example project](assets/existing-project.png)
+
+---
+
+## GitHub Actions ![logo](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
+
+Automatyzacja!
+
+NOTE: pokazać w praktyce
