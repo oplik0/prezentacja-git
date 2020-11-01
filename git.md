@@ -384,7 +384,7 @@ NOTE: zaznaczyć że często się pobiera repo z githuba zamiast tworzyć je lok
 > git clone https://github.com/nazwa-użytkownika/nazwa-repozytorium.git nazwa-folderu
 ```
 
-<!-- .element style="width:105%" -->
+<!-- .element style="width:115%" -->
 
 ---
 
